@@ -1,0 +1,3 @@
+case_id,slide_id,label
+patient_0,Tumor,tumor_tissue
+patient_0,Normal,normal_tissue

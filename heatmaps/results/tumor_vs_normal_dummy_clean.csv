@@ -1,0 +1,2 @@
+slide_id,process,status,seg_level,sthresh,mthresh,close,use_otsu,keep_ids,exclude_ids,a_t,a_h,max_n_holes,vis_level,line_thickness,use_padding,contour_fn,bag_size,Pred_0,p_0,Pred_1,p_1
+Tumor,1,tbp,1,8,3,4,True,none,none,100.0,2.0,10,1,80,True,four_pt,1367.0,tumor_tissue,0.9999799728393555,normal_tissue,1.9976227122242562e-05
